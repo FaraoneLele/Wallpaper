@@ -1,0 +1,134 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-03-22 02:26+0400\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: /home/turan/Apps/Wallpapers/Wallpapers/Main.qml:34
+#: /home/turan/Apps/Wallpapers/Wallpapers/ui/Search.qml:10
+#: /home/turan/Apps/Wallpapers/Wallpapers/ui/Search.qml:19
+msgid "Search"
+msgstr ""
+
+#: /home/turan/Apps/Wallpapers/Wallpapers/Main.qml:42
+msgid "Filter"
+msgstr ""
+
+#: /home/turan/Apps/Wallpapers/Wallpapers/Main.qml:50
+msgid "Resolution"
+msgstr ""
+
+#: /home/turan/Apps/Wallpapers/Wallpapers/Main.qml:77
+#: /home/turan/Apps/Wallpapers/Wallpapers/ui/Wallpapers.qml:10
+#: /home/turan/Apps/build-Wallpapers-UbuntuSDK_for_armhf_GCC_ubuntu_sdk_15_04_vivid-Debug/Wallpapers/Wallpapers.desktop.h:1
+msgid "Wallpapers"
+msgstr ""
+
+#: /home/turan/Apps/Wallpapers/Wallpapers/Main.qml:84
+#: /home/turan/Apps/Wallpapers/Wallpapers/ui/Categories.qml:9
+msgid "Categories"
+msgstr ""
+
+#: /home/turan/Apps/Wallpapers/Wallpapers/Main.qml:95
+#: /home/turan/Apps/Wallpapers/Wallpapers/ui/Collections.qml:9
+msgid "Collections"
+msgstr ""
+
+#: /home/turan/Apps/Wallpapers/Wallpapers/Main.qml:106
+#: /home/turan/Apps/Wallpapers/Wallpapers/ui/About.qml:8
+#: /home/turan/Apps/Wallpapers/Wallpapers/ui/About.qml:13
+msgid "About"
+msgstr ""
+
+#: /home/turan/Apps/Wallpapers/Wallpapers/Main.qml:116
+#: /home/turan/Apps/Wallpapers/Wallpapers/ui/Category.qml:66
+#: /home/turan/Apps/Wallpapers/Wallpapers/ui/Collection.qml:66
+#: /home/turan/Apps/Wallpapers/Wallpapers/ui/Search.qml:82
+#: /home/turan/Apps/Wallpapers/Wallpapers/ui/Wallpapers.qml:70
+msgid "Photo"
+msgstr ""
+
+#: /home/turan/Apps/Wallpapers/Wallpapers/Main.qml:127
+msgid "Category"
+msgstr ""
+
+#: /home/turan/Apps/Wallpapers/Wallpapers/Main.qml:141
+msgid "Collection"
+msgstr ""
+
+#: /home/turan/Apps/Wallpapers/Wallpapers/Main.qml:167
+msgid "Featured"
+msgstr ""
+
+#: /home/turan/Apps/Wallpapers/Wallpapers/Main.qml:168
+msgid "Newest"
+msgstr ""
+
+#: /home/turan/Apps/Wallpapers/Wallpapers/Main.qml:169
+msgid "Highest rated"
+msgstr ""
+
+#: /home/turan/Apps/Wallpapers/Wallpapers/Main.qml:170
+msgid "By views"
+msgstr ""
+
+#: /home/turan/Apps/Wallpapers/Wallpapers/Main.qml:171
+msgid "By favorites"
+msgstr ""
+
+#: /home/turan/Apps/Wallpapers/Wallpapers/Main.qml:195
+msgid "All"
+msgstr ""
+
+#: /home/turan/Apps/Wallpapers/Wallpapers/Main.qml:196
+msgid "HD Wallpapers"
+msgstr ""
+
+#: /home/turan/Apps/Wallpapers/Wallpapers/Main.qml:197
+msgid "UltraHD 4k Wallpapers"
+msgstr ""
+
+#: /home/turan/Apps/Wallpapers/Wallpapers/Main.qml:198
+msgid "Retina 5k Wallpapers"
+msgstr ""
+
+#: /home/turan/Apps/Wallpapers/Wallpapers/ui/About.qml:19
+msgid "Credits"
+msgstr ""
+
+#: /home/turan/Apps/Wallpapers/Wallpapers/ui/About.qml:87
+msgid "Powered by <b>Wallpaper Abyss</b>"
+msgstr ""
+
+#: /home/turan/Apps/Wallpapers/Wallpapers/ui/About.qml:115
+msgid "Released under the terms of the GNU GPL v3"
+msgstr ""
+
+#: /home/turan/Apps/Wallpapers/Wallpapers/ui/About.qml:124
+#, qt-format
+msgid "Source code available on %1"
+msgstr ""
+
+#: /home/turan/Apps/Wallpapers/Wallpapers/ui/Category.qml:77
+#: /home/turan/Apps/Wallpapers/Wallpapers/ui/Collection.qml:77
+#: /home/turan/Apps/Wallpapers/Wallpapers/ui/Search.qml:93
+#: /home/turan/Apps/Wallpapers/Wallpapers/ui/Wallpapers.qml:81
+msgid "Load more"
+msgstr ""
+
+#: /home/turan/Apps/Wallpapers/Wallpapers/ui/Photo.qml:30
+msgid "Download"
+msgstr ""

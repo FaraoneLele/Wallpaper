@@ -1,0 +1,9 @@
+[Desktop Entry]
+_Name=Wallpapers
+Exec=qmlscene %U Wallpapers/Main.qml
+Icon=Wallpapers/Wallpapers.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+X-Ubuntu-Splash-Color=#ffffff
+

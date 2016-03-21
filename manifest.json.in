@@ -1,0 +1,15 @@
+{
+    "name": "wallpapers.turan-mahmudov-l",
+    "description": "Best HD wallpapers for your phone",
+    "architecture": "@CLICK_ARCH@",
+    "title": "Wallpapers",
+    "hooks": {
+        "Wallpapers": {
+            "apparmor": "Wallpapers/Wallpapers.apparmor",
+            "desktop": "Wallpapers/Wallpapers.desktop"
+        }
+    },
+    "version": "0.3.2",
+    "maintainer": "Turan Mahmudov <turan.mahmudov@gmail.com>",
+    "framework": "ubuntu-sdk-15.04.3"
+}
