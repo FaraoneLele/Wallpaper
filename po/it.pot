@@ -72,7 +72,7 @@ msgstr "Prodotto da <b>Wallpaper Abyss</b>"
 
 #: ui/About.qml:166
 msgid "Released under the terms of the GNU GPL v3"
-msgstr ""Rilasciato sotto i termini della GNU GPL v3"
+msgstr "Rilasciato sotto i termini della GNU GPL v3"
 
 #: ui/About.qml:175
 #, qt-format
