@@ -1,1 +1,112 @@
 
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Emanuele Antonio faraone  <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-02-23 19:10+0400\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ui/Search.qml:10 ui/Search.qml:19 Main.qml:30
+msgid "Search"
+msgstr "Cerca"
+
+#: ui/Search.qml:82 ui/Category.qml:66 ui/Wallpapers.qml:70 Main.qml:93
+msgid "Photo"
+msgstr "Foto"
+
+#: ui/Search.qml:93 ui/Category.qml:77 ui/Wallpapers.qml:81
+msgid "Load more"
+msgstr "Carica altre"
+
+#: ui/Photo.qml:30
+msgid "Download"
+msgstr "Download"
+
+#: ui/Categories.qml:9 Main.qml:72
+msgid "Categories"
+msgstr "Categorie"
+
+#: ui/Wallpapers.qml:10 Main.qml:65
+msgid "Wallpapers"
+msgstr "Sfondi"
+
+#: ui/About.qml:8 ui/About.qml:13 Main.qml:83
+msgid "About"
+msgstr "informazioni su"
+
+#: ui/About.qml:19
+msgid "Credits"
+msgstr "Crediti"
+
+#: ui/About.qml:33
+msgid "Bitcoin"
+msgstr "Bitcoin"
+
+#: ui/About.qml:50
+msgid "3QkJ2k8wx3E3Cnu9N86YSTWGKEjySDBhJk"
+msgstr "3QkJ2k8wx3E3Cnu9N86YSTWGKEjySDBhJk"
+
+#: ui/About.qml:60
+msgid "Copy"
+msgstr "Copia"
+
+#: ui/About.qml:69
+msgid "Cancel"
+msgstr "Cancella"
+
+#: ui/About.qml:138
+msgid "Powered by <b>Wallpaper Abyss</b>"
+msgstr "Prodotto da <b>Wallpaper Abyss</b>"
+
+#: ui/About.qml:166
+msgid "Released under the terms of the GNU GPL v3"
+msgstr ""Rilasciato sotto i termini della GNU GPL v3"
+
+#: ui/About.qml:175
+#, qt-format
+msgid "Source code available on %1"
+msgstr "codice di sorgente disponibile su %1"
+
+#: ui/About.qml:191
+msgid "Donate"
+msgstr "Dona"
+
+#: Main.qml:38
+msgid "Filter"
+msgstr "Filtri"
+
+#: Main.qml:104
+msgid "Category"
+msgstr "Categoria"
+
+#: Main.qml:127
+msgid "Featured"
+msgstr "in primo piano"
+
+#: Main.qml:128
+msgid "Newest"
+msgstr "Nuovi"
+
+#: Main.qml:129
+msgid "Highest rated"
+msgstr "Voto più alto"
+
+#: Main.qml:130
+msgid "By views"
+msgstr "Dalle visualizzazioni"
+
+#: Main.qml:131
+msgid "By favorites"
+msgstr "Dai favoriti"
